@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cowsay": "^1.5.0",
+    "dayjs": "^1.11.6",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20"
+  },
+  "name": "helloworld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cowsays": "cowsay Hello World!"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
